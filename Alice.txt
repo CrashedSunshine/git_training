@@ -1,9 +1,14 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I am making some changes.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Adding more changes in Alice.
 Alice has been here for some time now.
 I am editing Alice to simulate changes made by someone else.
 =======
 Adding more changes in Alice.
 >>>>>>> 1d81d3a (updating Alice further)
+=======
+Adding more changes in Alice.
+Alice has been here for some time now.
+>>>>>>> 6b29f58 (Editing Alice)
